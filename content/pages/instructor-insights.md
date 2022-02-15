@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: eac3cc1f-3fb7-0df1-43e5-2ff0dd63cbfa
 ---
