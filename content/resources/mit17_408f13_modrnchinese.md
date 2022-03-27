@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 131441a9-34b3-575c-407f-c95436908649
 resourcetype: Document
 title: 'Modern Chinese Strategic Thought: Classical and Maoist Influences '
 uid: d3ea390f-f931-eafd-088b-4f8ec2caac0e
