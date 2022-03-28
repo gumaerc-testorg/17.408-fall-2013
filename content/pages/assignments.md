@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
+parent_uid: null
 title: Assignments
 uid: 131441a9-34b3-575c-407f-c95436908649
 ---
@@ -24,8 +25,8 @@ Student Examples
 
 Below are examples of essays written by students in previous semesters of this class. All work appears courtesy of MIT students and is used with permission.
 
-["An Analysis of Traditional Chinese Strategic Thought" (PDF)]({{< baseurl >}}/resources/mit17_408f13_anlyistrdtnl)
+{{< resource_link cad26fd1-81ff-f49c-8b65-72f79ccaf215 "\"An Analysis of Traditional Chinese Strategic Thought\" (PDF)" >}}
 
-["Modern Chinese Strategic Thought: Classical and Maoist Influences" (PDF)]({{< baseurl >}}/resources/mit17_408f13_modrnchinese)
+{{< resource_link d3ea390f-f931-eafd-088b-4f8ec2caac0e "\"Modern Chinese Strategic Thought: Classical and Maoist Influences\" (PDF)" >}}
 
-["Explaining China's Participation in Anti-Piracy Operations in the Gulf of Aden" (PDF)]({{< baseurl >}}/resources/mit17_408f13_explinigchina)
+{{< resource_link 6a5a8016-9cfc-4f9c-169a-8c259eda2c24 "\"Explaining China's Participation in Anti-Piracy Operations in the Gulf of Aden\" (PDF)" >}}

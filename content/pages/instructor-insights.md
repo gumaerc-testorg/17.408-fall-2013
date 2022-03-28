@@ -3,6 +3,7 @@ content_type: page
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
+parent_uid: null
 title: Instructor Insights
 uid: eac3cc1f-3fb7-0df1-43e5-2ff0dd63cbfa
 ---
@@ -58,5 +59,5 @@ Seminar
 Out of Class
 ------------
 
-*   Weekly [readings]({{< baseurl >}}/pages/readings) were assigned to prepare for each class session.
-*   Students had to complete one [research paper]({{< baseurl >}}/pages/assignments) on a topic of their choice.
+*   Weekly {{< resource_link bbf3ef29-f51d-9034-f7ef-f38f589b5604 "readings" >}} were assigned to prepare for each class session.
+*   Students had to complete one {{< resource_link 131441a9-34b3-575c-407f-c95436908649 "research paper" >}} on a topic of their choice.
