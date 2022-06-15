@@ -1,8 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, requirements, and grading.
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Syllabus
 uid: 9a1bf22b-ad9f-9e31-3e84-6463c71e57ca
 ---
@@ -27,7 +28,7 @@ Requirements and Grading
 
 The first requirement is active participation in the seminar. A successful seminar requires attendance at every meeting and completion of all readings as well as active and engaged participation. To stimulate discussion, students will be assigned as discussants each week.
 
-The second requirement is a research paper on the topic of your choice. For more information, see the {{< resource_link 131441a9-34b3-575c-407f-c95436908649 "Assignments" >}} section.
+The second requirement is a research paper on the topic of your choice. For more information, see the {{% resource_link 131441a9-34b3-575c-407f-c95436908649 "Assignments" %}} section.
 
 {{< tableopen >}}
 {{< theadopen >}}
