@@ -34,8 +34,10 @@
     "website": "17-408-chinese-foreign-policy-fall-2013"
   },
   "learning_resource_types": [
-    "Written Assignments with Examples"
+    "Written Assignments with Examples",
+    "Instructor Insights"
   ],
-  "site_uid": "3050ee79-8729-402d-aa56-42e4eaeab450",
+  "site_uid": "38defe54-89f3-476c-a6c2-c4a9b7a8e9f0",
+  "site_short_id": "17.408-fall-2013",
   "title": "Course Metadata"
 }
