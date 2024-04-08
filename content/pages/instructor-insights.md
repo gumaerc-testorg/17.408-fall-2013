@@ -30,8 +30,8 @@ Permission of the instructor
 ### Requirements Satisfied
 
 - H-Level Graduate Credit ![](/images/educator/icon-question-hlevel.png)
-- Can be applied toward a [Master of Science in Political Science](https://polisci.mit.edu/graduate/masters)
-- Can be applied toward a [PhD in Political Science](http://web.mit.edu/polisci/graduate/phd.html)
+- Can be applied toward a {{% resource_link "3cb701f3-5a51-46c9-8ea2-28475607f549" "Master of Science in Political Science" %}}
+- Can be applied toward a {{% resource_link "f9aa70a8-3858-4b08-8be8-ac496865fd6e" "PhD in Political Science" %}}
 
 {{< anchor "studentinfo" >}}{{< /anchor >}}
 
