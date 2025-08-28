@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Example of student work for a research paper on Chinese foreign policy.
-file: /courses/17-408-chinese-foreign-policy-fall-2013/cad26fd181fff49c8b6572f79ccaf215_MIT17_408F13_AnlyisTrdtnl.pdf
+file: /ol-ocw-studio-app/courses/17-408-chinese-foreign-policy-fall-2013/cad26fd181fff49c8b6572f79ccaf215_MIT17_408F13_AnlyisTrdtnl.pdf
 file_size: 116554
 file_type: application/pdf
 learning_resource_types:
