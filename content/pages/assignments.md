@@ -15,11 +15,11 @@ The research paper will count for 50% of your grade.
 
 _Plagiarism_
 
-Plagiarism will not be tolerated. Plagiarism is "a piece of writing that has been copied from someone else and is presented as being your own work." This includes ideas as well as specific phrases, sentences or paragraphs. **Do not misrepresent your own work**. See [Avoiding Plagiarism](http://cmsw.mit.edu/writing-and-communication-center/avoiding-plagiarism/) from MIT's Writing & Communication Center and [MIT's rules](http://web.mit.edu/policies/10/index.html) regarding academic honesty.
+Plagiarism will not be tolerated. Plagiarism is "a piece of writing that has been copied from someone else and is presented as being your own work." This includes ideas as well as specific phrases, sentences or paragraphs. **Do not misrepresent your own work**. See {{% resource_link "3ef001ce-2056-4a05-98c6-48c74c276c32" "Avoiding Plagiarism" %}} from MIT's Writing & Communication Center and {{% resource_link "bcb8fc47-4547-49f5-8a85-2770e81a10b6" "MIT's rules" %}} regarding academic honesty.
 
 _Writing_
 
-The [Writing & Communication Center](http://cmsw.mit.edu/writing-and-communication-center/) offers you free professional advice from published writers about oral presentations and about all types of academic, creative, and professional writing.
+The {{% resource_link "dfd97fc2-9f2a-45af-9fd2-e96a0aaa5452" "Writing & Communication Center" %}} offers you free professional advice from published writers about oral presentations and about all types of academic, creative, and professional writing.
 
 Student Examples
 ----------------
